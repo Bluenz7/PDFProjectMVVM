@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Info.plist
+   PDFRedactor
+
+   Created by Владислав Скриганюк on 22.10.2025.
+   Copyright (c) 2025 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Для выбора фото в PDF</string>
+
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Для записи голоса при диктовке</string>
+
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Для преобразования голоса в текст</string>
+</dict>
+</plist>
